@@ -1,3 +1,5 @@
+What Is Swarm City?
+
 <p><span style="font-size: large;">Swarm City is a decentralized commerce platform built on the Ethereum blockchain.</span></p>
 <p><span style="font-size: large;">Visit&nbsp;<a href="https://swarm.city">https://swarm.city</a>&nbsp;to view the website and select "enter here" to create a profile.</span></p>
 <p><span style="font-size: large;">It is our goal to provide a platform featuring an open global marketplace of services/service providers, currency tokens, and encrypted communication tools that offer direct access between buyers and sellers worldwide.</span></p>
