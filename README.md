@@ -273,3 +273,33 @@
 <p dir="ltr"><span style="font-size: large;"><br /></span></p>
 <p dir="ltr"><span style="font-size: large;">Hear what Rick Falkvinge has to say about Swarm City in his message for us on June 15, 2017...!!</span></p>
 <p><iframe src="https://www.youtube.com/embed/hYiKlP-UnUg?start=39.27" width="560" height="315" allowfullscreen="" frameborder="0"></iframe></p>
+
+# Will there be a Swarm City tokensale?
+<p dir="ltr"><span style="font-size: large;">No, there will not be a Swarm City tokensale, ICO, ITO, or any other token offering.</span></p>
+<p dir="ltr"><span style="font-size: large;">Between November 1 and November 30, 2016, there was a&nbsp;<a href="https://drive.google.com/file/d/0B9RSMdR2vWssV2JJX0t6dmN6SUk/view">crowdfunded</a>&nbsp;ITO to raise DApp development funds.</span></p>
+<p dir="ltr"><span style="font-size: large;">On January 1, 2017, there was a <a href="https://press.swarm.city/happy-new-year-a52f80043cc7">brand fork</a>, the dev team and the Swarm separated from the CEO of Arcade City Inc, and rebranded into what is currently known as Swarm City.&nbsp;</span></p>
+<p dir="ltr"><span style="font-size: large;">To enable the crowdfund contributors to hold value in their ARC tokens without being associated with the previous brand, a conversion tool was developed to convert the ARC tokens purchased during the sale into SWT, that are exchanged within the Swarm City DApp.&nbsp;</span></p>
+<p dir="ltr"><span style="font-size: large;">The updated&nbsp;</span><a style="font-size: large;" href="https://github.com/swarmcity/sc-token/blob/master/token-exchange-miniwhitepaper.md">whitepaper</a><span style="font-size: large;">&nbsp;covering the ARC to SWT conversion can be viewed on the Swarm City Github.</span></p>
+<p dir="ltr"><span style="font-size: large;"><span><span>Most notably there will be no more SWT tokens minted. A total of 9,525,397 ARC tokens were minted, so at most only 9,525,397 SWT can ever be minted. This number includes the 16% tokens minted in addition to the ARC Token Sale and these are exchangeable as well. T</span>he amount of SWT created through the ARC token conversion will be the maximum ever created. ARC is exchanged for SWT at ratio of 1:1. The conversion is optional and has no expiration date.</span></span></p>
+<p dir="ltr"><span style="font-size: large;">The ether raised during the tokensale was used to fund the project until July 19, 2017, when <a href="https://www.cnbc.com/2017/07/20/32-million-worth-of-digital-currency-ether-stolen-by-hackers.html">hackers exploited</a> an error in the Parity wallet holding the remainder of the budget.&nbsp;</span></p>
+<p dir="ltr"><span style="font-size: large;"><span class="markup--quote markup--p-quote is-other" data-creator-ids="c4302a338bbf anon 55888b0645d5">The team published a <a href="https://press.swarm.city/parity-multisig-wallet-exploit-hits-swarm-city-funds-statement-by-the-swarm-city-core-team-d1f3929b4e4e">statement</a> saying,</span></span></p>
+<blockquote>
+<p dir="ltr"><span style="font-size: large;"><span class="markup--quote markup--p-quote is-other" data-creator-ids="c4302a338bbf anon 55888b0645d5"> "The Swarm City Core team is more committed than ever to the development of Swarm City. The real value of our token lies in the community, and the technology the developers are creating.</span><span class="markup--quote markup--p-quote is-other" data-creator-ids="anon 55888b0645d5">&nbsp;Black hat hackers, vulnerabilities, and bugs will not stop us from creating the decentralized sharing economy our community and the world craves."</span></span></p>
+</blockquote>
+<p dir="ltr"><span style="font-size: large;">...and the show "must go on"!</span></p>
+<p dir="ltr"><span style="font-size: large;"><br /></span></p>
+<p dir="ltr"><span style="font-size: large;">To learn more about the project history and stay updated check out our internal publications at&nbsp;<a href="https://medium.com/swarm-city-times">Swarm City Times</a>,&nbsp;</span></p>
+
+# How does Swarm City use smart contracts?
+<p><span style="font-size: large;">A <a href="https://en.wikipedia.org/wiki/Smart_contract">smart contract</a> is a computer protocol that stores rules for negotiating the terms of a contract, automatically verifies the contract, and then executes the agreed upon terms. The protocols enforce the outcome of the contracts between parties. S<span>mart contracts are stored chronologically on the associated blockchain.</span></span></p>
+<p><span style="font-size: large;">The <a href="https://en.wikipedia.org/wiki/Blockchain">blockchain</a> coupled with smart contract technologies removes reliance on central systems between transactiong parties. Untrusted parties can interact directly with each other using smart contracts without the need for a&nbsp; middleman.</span></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p><iframe src="https://www.youtube.com/embed/FkeLDPZ-v8g" width="560" height="315" allowfullscreen="" frameborder="0"></iframe></p>
+
+# Can I use MyCrypto to send SWT?
+<p><span>Yes, you can use MyCrypto to send SWT tokens just like any other ERC-20 token.&nbsp;</span></p>
+<p><span>The Swarm City DApp is built on the Ethereum blockchain and therefore, requires ether to fuel the transaction. Users will need a small amount of Ether in the wallet holding the SWT to cover the gas transaction fees. To add ether to your wallet simply send ether to the public address holding the SWT.</span></p>
+<p><span>Users do not need to move their SWT to a MyCrypto paper wallet to use MyCrypto to send SWT to other users. The Swarm City wallet can be loaded using MyCrypto using a private key.</span></p>
+<p><span>Go to MyCrypto and use the private key to unlock your Swarm City wallet.&nbsp;</span></p>
+<p><span>This&nbsp;<a href="https://support.mycrypto.com/send/sending-and-adding-tokens.html">link</a>&nbsp;to MyCrypto Support has detailed instructions on how to send tokens.</span></p>
