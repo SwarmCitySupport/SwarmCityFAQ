@@ -1,4 +1,4 @@
-What Is Swarm City?
+# What Is Swarm City?
 
 <p><span style="font-size: large;">Swarm City is a decentralized commerce platform built on the Ethereum blockchain.</span></p>
 <p><span style="font-size: large;">Visit&nbsp;<a href="https://swarm.city">https://swarm.city</a>&nbsp;to view the website and select "enter here" to create a profile.</span></p>
@@ -33,7 +33,8 @@ What Is Swarm City?
 
 <p><a href="https://swarm.city"><img src="https://s3.amazonaws.com/groovehq/uploaded/a0g97mvc86kkxfeg3gnns0lc0833zvofq8bmgfeurpps7ht6sx?1504933376" altWhere is Swarm City?="" /></a></p>
 <p>&nbsp;</p>
-Where is Swarm City?
+
+# Where is Swarm City?
 <p><span style="font-size: large;"><span style="font-size: large;">Swarm City is a decentralized commerce platform built on the Ethereum Blockchain.</span></span></p>
 <p><span style="font-size: large;"><span style="font-size: large;"><br /></span></span></p>
 <p><span style="font-size: large;"><span style="font-size: large;">Join the Swarm...there are no boundaries!</span></span></p>
@@ -51,7 +52,7 @@ Where is Swarm City?
 </ul>
 <p><span style="font-size: large;">To contact Swarm City Support, use the (?) widget on the bottom left hand corner of the page on this site, email support@swarm.city, or ask us on <a href="https://twitter.com/SwarmCityHelp">Twitter</a>.</span></p>
 
-Why build Swarm City?
+# Why build Swarm City?
 <p><span style="font-size: large;">We are building Swarm City so people can transact with each other without third party interference. #Freedom</span></p>
 <p><span style="font-size: large;">Using Swarm City removes the need for third party intermediaries allowing every user to transact without obstruction. In doing so, transaction costs are greatly reduced, and there is no more need for users to trust third parties with their personal data.</span></p>
 <p><span style="font-size: large;">Building decentralized apps (DApps) on the Ethereum blockchain has the potential to distrupt many global markets and industries including banking and payments, cyber security, supply chain management, forecasting, networking and the Internet of Things, insurance, private transportation and ridesharing, cloud storage, charity, voting government, public benefits, healthcare, online music distribution, retail, real estate, crowdfunding, and any industry that deals with data or transactions of any kind.&nbsp;</span></p>
@@ -61,7 +62,7 @@ Why build Swarm City?
 <p><span style="font-size: large;"><a href="https://www.cbinsights.com/research/industries-disrupted-blockchain/">Banking Is Only The Beginning: 30 Big Industries Blockchain Could Transform</a></span></p>
 <p><span style="font-size: large;"><a href="https://www.forbes.com/sites/oliviergarret/2017/03/29/5-industries-that-blockchain-will-likely-disrupt-by-2020/2/#694b15ec6a90">5 Industries Blockchain Will Likely Disrupt by 2020</a>&nbsp;- Forbes</span></p>
 
-Why is Swarm City built on the Ethereum blockchain?
+# Why is Swarm City built on the Ethereum blockchain?
 <p><span><span style="font-size: large;">We had several reasons for choosing to build the Swarm City DApp on the Ethereum blockchain opposed to building our own blockchain or using another:</span></span></p>
 <ul>
 <li><span><span style="font-size: large;">It gives us the ability to create reputation for each transaction we do. When SWT is transacted over a hashtag (smart contract) the people transacting get reputation on that hashtag. So, say in a rideshare scenario, a driver and a rider who transact on #needaride both get reputation for successfully completing the deal. That can&rsquo;t happen in our ecosystem if SWT isn&rsquo;t used.</span></span></li>
