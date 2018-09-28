@@ -120,3 +120,20 @@
 </ul>
 <p><span style="font-size: large;">Learn more by reading "<a href="https://press.swarm.city/storefront-15f4c2a28d6f">Storefront</a>"</span></p>
 <p><span><span style="font-size: large;">Also find more general info here "</span><span style="font-size: large;"><a class="postlink" href="https://press.swarm.city/unmistakably-swarm-city-9522606f88">Unmistakably Swarm City - How and What we are Developing</a>"</span></span></p>
+
+# Where can I view the Swarm City whitepaper?
+<p><span style="font-size: large;"><span>You can view the original Arcade City whitepaper used during the November 2017 tokensale,&nbsp;&nbsp;</span><a class="postlink" href="https://drive.google.com/file/d/0B9RSMdR2vWssV2JJX0t6dmN6SUk/view">here</a>. On January 1, 2017, there was a brand fork and a new mini <a href="https://github.com/swarmcity/sc-token/blob/master/token-exchange-miniwhitepaper.md#token-exchange-whitepaper">whitepaper</a> was created by the Swarm City developers to outline the intended path forward.</span></p>
+
+# Is Swarm City an open-sourced project?
+<p dir="ltr"><span style="font-size: large;">Yes, Swarm City is an <a href="https://en.wikipedia.org/wiki/Open-source_software">open source</a> <a href="https://en.wikipedia.org/wiki/Peer-to-peer">P2P</a> web application platform, providing decentralized, privacy-preserving software which keeps users in control of their own content. </span></p>
+<p dir="ltr"><span style="font-size: large;">See and contribute to the code on <a href="https://github.com/swarmcity">Github</a>.</span></p>
+<p dir="ltr">&nbsp;</p>
+<blockquote>
+<p>Copyright 2017 Swarm City</p>
+</blockquote>
+<blockquote>
+<p>Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:</p>
+<p>The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.</p>
+<p>THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.</p>
+<p>&nbsp;</p>
+</blockquote>
