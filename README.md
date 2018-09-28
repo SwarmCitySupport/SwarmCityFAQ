@@ -184,3 +184,92 @@
 <p><span style="font-size: large;">There is a unique IPFS bridge constructed within Firebase, and its function is to listen to changes made to the Firebase database and storage. This bridge is a caching layer and hash index to the IPFS. All changes to Firebase will be saved to IPFS, and IPFS will generate a hash from the data, which in turn is saved back to Firebase updating the stored data with the IPFS hash. </span></p>
 <p><span style="font-size: large;">Data is stored in the browser&rsquo;s local storage via IndexedDB and Firebase database. This data is then synced to the IPFS. Firebase functions trigger updates to the Blockchain. </span></p>
 <p><span style="font-size: large;">Public servers are used to interacting with geth, leaving the app completely infrastructure free with exception of the IPFS server.</span></p>
+
+# What can I do in Swarm City?
+<p><span><span><span style="font-size: large;">The Swarm City Terminal is the entry point into the Swarm City ecosystem.&nbsp;</span></span></span></p>
+<p><span><span><span style="font-size: large;">In Boardwalk version 1, u</span></span></span><span style="font-size: large;">sers can do the following:</span></p>
+<ul>
+<li><span style="font-size: large;"><a href="https://swarmcitysupport.groovehq.com/knowledge_base/topics/how-do-i-create-a-swt-wallet?from_search=true"> create a profile</a> and digital wallet</span></li>
+<li><span style="font-size: large;"><a href="https://swarmcitysupport.groovehq.com/knowledge_base/topics/how-do-i-go-to-exchange-my-previously-purchased-arc-for-swt?from_search=true">convert ARC</a> tokens to SWT</span></li>
+<li><span style="font-size: large;"><a href="https://swarmcitysupport.groovehq.com/knowledge_base/topics/how-do-i-trade-swt-with-other?from_search=true">send and receive</a> SWT</span></li>
+<li><span style="font-size: large;">view the SWT and ETH token balances</span></li>
+<li><span style="font-size: large;">view the equivalent USD value of their SWT balances</span></li>
+<li><span style="font-size: large;">place an offer</span></li>
+<li><span style="font-size: large;">communicate privately</span></li>
+<li><span style="font-size: large;"><a href="https://swarmcitysupport.groovehq.com/knowledge_base/topics/how-do-i-transact-with-others-using-the-dapp?from_search=true">complete a transaction</a>, exchanging SWT on the Boardwalk with other users</span></li>
+<li><span style="font-size: large;">receive SWR, Swarm City Reputation tokens for completed transactions</span></li>
+</ul>
+<p><span style="font-size: large;">Swarm City users will soon have the ability to create their own hashtags with the click of a button, which are smart contracts used to create individual markets with specified parameters.</span></p>
+<p><span style="font-size: large;">Swarm City also has a built-in reputation system which helps users determine who they might trust and interact with in the marketplace. Every user builds reputation over time as they transact with others on the platform. Swarm City Reputation (SWR) tokens are minted only when a user successfully completes a transaction on the Boardwalk. The concept of reputation will evolve and become a very important feature.</span></p>
+<p><span id="docs-internal-guid-75fa5f45-6a5b-925c-342e-6395064b63cc"><span style="font-size: large;"><a href="https://press.swarm.city/swarm-city-dev-update-july-5-2017-c0fe82d9faae">#Pioneer</a> is the first, and currently only, available hashtag in Swarm City Boardwalk, and is being developed and maintained by the Swarm City dev team. It is a non-context specific hashtag available to users worldwide. Any user can create any offer on #Pioneer without restrictions.</span></span></p>
+<p><span><span style="font-size: large;"><br /></span></span></p>
+<p><span><span style="font-size: large;">To find more info about the future of Swarm City, visit our Medium channel.</span></span></p>
+<p><span style="font-size: large;">Read <a href="https://press.swarm.city/dev-progress-review-the-path-towards-boardwalk-2-0-6ce53adfd401">"Dev Progress Review:The Path Towards Boardwalk 2.0"</a>&nbsp;for the latest dev progress report, Dec. 2, 2017.</span></p>
+<p><span id="docs-internal-guid-75fa5f45-6a5b-925c-342e-6395064b63cc"><span style="font-size: large;">Read "<a href="https://press.swarm.city/swarm-city-dev-update-july-5-2017-c0fe82d9faae">Swarm City Dev Hive update July 4, 2017</a>" for important details regarding app development.</span></span></p>
+<p><span style="font-size: large;">Read "</span><a style="font-size: large;" href="https://press.swarm.city/cutting-out-the-middlemen-318dae0ed8cb">Cutting Out the Middleman</a><span style="font-size: large;">" to see what motivates us.</span></p>
+<p><span><span><span style="font-size: large;"><br /></span></span></span></p>
+
+# What is the Swarm City Terminal?
+<p dir="ltr"><span style="font-size: large;">The Swarm City <a href="https://press.swarm.city/launch-swarm-city-terminal-f32a8264d98f">Terminal</a>&nbsp;v1, the first release, was <a href="https://press.swarm.city/first-release-details-on-the-token-swap-20e03f1b7da6">announced</a>&nbsp;on February 18, 2017.</span></p>
+<p dir="ltr"><span style="font-size: large;">The Terminal is the starting point of the user journey in Swarm City that serves as</span><span style="font-size: large;">&nbsp;the main entry screen into the ecosystem and will be the browser for the hashtags, starting with #pioneer.&nbsp;</span></p>
+<p dir="ltr"><span style="font-size: large;"><span>SWT is exchanged directly between users over the Ethereum blockchain; no need for a middleman. The SWT wallet is stored locally on your device; no central servers or database.</span></span></p>
+<p><span style="font-size: large;">Creating a SWT wallet gives users the ability to:</span></p>
+<ul>
+<li><span style="font-size: large;">generate a new wallet- a vault encrypted with your password and stored locally on your device, this is your public address; no central servers</span></li>
+<li><span style="font-size: large;">generate a private key- you have sole access and ownership of your private key. There is no way to recover lost or stolen private keys</span></li>
+<li><span style="font-size: large;">manage a basic profile -&nbsp;<span>stored on&nbsp;</span><a class="markup--anchor markup--li-anchor" href="http://ipfs.io/" rel="noopener" target="_blank" data-href="http://ipfs.io/">IPFS</a></span></li>
+<li><span style="font-size: large;">exchange Arcade City tokens (ARC) for Swarm City Tokens (SWT)</span></li>
+<li><span style="font-size: large;">view balances</span></li>
+<li><span style="font-size: large;">send &amp; receive SWT from any wallet directly to other users; no need for a middleman</span></li>
+<li><span style="font-size: large;">create a backup</span></li>
+<li><span style="font-size: large;">users can import any existing ERC-20 wallet using private keys</span></li>
+<li><span style="font-size: large;">log out</span></li>
+<li><span style="font-size: large;">delete user account</span>&nbsp;</li>
+</ul>
+<p dir="ltr"><span style="font-size: large;">View on </span><a style="font-size: large;" href="https://github.com/swarmcity/sc-terminal/blob/master/README.md">Github</a><span style="font-size: large;">&nbsp;or&nbsp;create a </span><a style="font-size: large;" href="https://swarm.city">profile</a>.</p>
+<p dir="ltr"><span style="font-size: large;">Read "<a href="https://press.swarm.city/first-release-details-on-the-token-swap-20e03f1b7da6">First Release &amp; Details on the Token Swap</a>" to gain more insight into what we have planned.</span></p>
+<div>&nbsp;</div>
+<div>Watch a demo</div>
+<p><iframe src="https://www.youtube.com/embed/QJOlo3NRx3I" width="560" height="315" allowfullscreen="" frameborder="0"></iframe></p>
+
+# What is the Boardwalk?
+<p><span style="font-size: large;">Boardwalk version 1 is Swarm City's the second release. It was globally announced LIVE on June 15, 2017. </span></p>
+<p><span style="font-size: large;">Boardwalk is Swarm City&rsquo;s Minimum Viable Product (MVP). It enables users to create requests and execute deals with Swarm City Tokens (SWT). Boardwalk is where commerce begins in Swarm City, and provides a simple, intuitive system for participating in Swarm City&rsquo;s peer-to-peer sharing economy. </span></p>
+<p><span style="font-size: large;"><a href="https://press.swarm.city/swarm-city-boardwalk-overview-9a362f19411f">Boardwalk</a> is the Swarm City public marketplace or virtual mall that has many individual markets, referred to as hashtags. Users can witness all transactions and determine for themselves where they choose to transact. With Boardwalk, hashtag driven provider requests are introduced, <a href="https://press.swarm.city/hashtags-revisited-694a7c9ff7a4">#pioneer</a>, which gives individuals the ability to communicate with each other, gain reputation, and transact.</span></p>
+<p><span style="font-size: large;"><br /></span></p>
+<p><span style="font-size: large;">See the Github repo&nbsp;</span><a style="font-size: large;" href="https://github.com/swarmcity/sc-boardwalk">here</a></p>
+<p><span style="font-size: large;">More info on this release in&nbsp;</span><a style="font-size: large;" href="https://press.swarm.city/swarm-city-boardwalk-overview-9a362f19411f">"Swarm City: Boardwalk Overview"</a></p>
+<p><span style="font-size: large;"><span>Watch the live streamed video&nbsp;</span><a href="https://youtu.be/hYiKlP-UnUg">here</a><span>&nbsp;</span></span></p>
+<p><iframe src="https://www.youtube.com/embed/hYiKlP-UnUg" width="560" height="315" allowfullscreen="" frameborder="0"></iframe></p>
+
+# What is a Hashtag?
+<p><span style="font-size: large;">On the surface, a hashtag serves as an <a href="https://en.wikipedia.org/wiki/Open_market">individual market</a> within the Swarm City Boardwalk marketplace. It gives context to each transaction.</span></p>
+<p><span style="font-size: large;">On a technical level a</span><span style="font-size: large;">&nbsp;hashtag is a <a href="https://medium.com/giveth/the-minime-token-open-sourced-by-giveth-2710c0210787">MiniMe</a> enabled contract, minting non transferrable reputation tokens. The contract&rsquo;s address is also registered on our &lsquo;hashtags&rsquo; contract, which basically is just an address string mapping, that we can index, read and even localize in the front end. To start with we will pre-populate the hashtags with existing services. </span></p>
+<p><span style="font-size: large;">The <a href="https://en.wikipedia.org/wiki/Smart_contract">smart contract</a> specifies the context by which users transact on the blockchain. Each hashtag automatically performs commerce functions under certain conditions; for example holding funds, paying out funds, and creating reputation tokens.&nbsp;<span style="font-size: large;">When paired with a blockchain, smart contracts allow for completely decentralized commerce.</span></span></p>
+<p><span style="font-size: large;"><br /></span></p>
+<p><span style="font-size: large;"><strong>How this works</strong>:</span></p>
+<p><span style="font-size: large;">When a user posts a request, the hashtag automatically pulls the payout amount selected and the hastag maintenance fee from the requester&rsquo;s wallet, and puts it into the smart contract. </span></p>
+<p><span style="font-size: large;">A service provider can bid on any offer by commenting. When commenting the hashtag automatically pulls the offer amount and the hashtag maintenance fee from the responders wallet and puts it into the smart contract. Therefore, both parties deposit an equal amount into an agreed upon smart contract until the transaction is complete.</span></p>
+<p><span style="font-size: large;">When the requester acknowledges in the app that the deal was completed as expected, the hashtag automatically sends those same funds minus the hashtag maintenance fees to the service provider, and mints reputation tokens for each party.&nbsp;</span></p>
+<p><span style="font-size: large;">These automatic functions take the place of escrow agents and payment processors, and make transacting in Swarm City trustless and decentralized.</span></p>
+<p><span style="font-size: large;"><br /></span></p>
+<p><span style="font-size: large;">The <a href="https://youtu.be/hYiKlP-UnUg">June 15, 2017 release</a><a href="https://youtu.be/hYiKlP-UnUg"> of Boardwalk version 1.0</a> introduced the very first Swarm City hashtag, called <strong>#pioneer</strong>.</span></p>
+<p><span style="font-size: large;"><img src="https://s3.amazonaws.com/groovehq/uploaded/93fgu4e2mafabmyz1mylkpmz6cxh7yhkwezbpyahipl06movk2?1505294696" alt="" /></span></p>
+<p><span style="font-size: large;">Read <a href="https://press.swarm.city/hashtags-revisited-694a7c9ff7a4">"Hashtags Revisited"</a>&nbsp;for a more in depth explanation.</span></p>
+
+# What is Swarmwise?
+<p dir="ltr"><span style="font-size: large;">&ldquo;Swarmwise&rdquo; is an inspiring manual written by Rick Falkvinge.&nbsp;</span></p>
+<p dir="ltr"><span style="font-size: large;"><span>You can&nbsp;</span><a href="http://falkvinge.net/2013/02/14/swarmwise-the-tactical-manual-to-changing-the-world-chapter-one/">read</a><span>&nbsp;it&nbsp;online or&nbsp;</span><a href="https://falkvinge.net/files/2013/04/Swarmwise-2013-by-Rick-Falkvinge-v1.1-2013Sep01.pdf">download</a><span>&nbsp;the entire book for free.</span></span></p>
+<p dir="ltr"><a href="https://falkvinge.net/files/2013/04/Swarmwise-2013-by-Rick-Falkvinge-v1.1-2013Sep01.pdf"><span style="font-size: large;"><img src="https://s3.amazonaws.com/groovehq/uploaded/4uy0vk6or9caiw9zfkk1y7vsev7dxw9cj15309iclw8y4luxxo?1505274112" alt="" /></span></a></p>
+<p dir="ltr"><span style="font-size: large;"><br /></span></p>
+<blockquote>
+<p dir="ltr"><span style="font-size: large;"><em>"Somewhere today, a loose-knit group of activists who are having fun is dropkicking a rich, established organization so hard they are making heads spin. Rich and resourceful organizations are used to living by the golden rule &mdash; &ldquo;those with the gold make the rules.&rdquo; New ways of organizing go beyond just breaking the old rules into downright shredding them &mdash; leaving executives in the dust, wondering how that band of poor, ragtag, disorganized activists could possibly have beaten their rich, well-structured organization." ~ </em><strong>Rick Falkvinge</strong><br /></span></p>
+</blockquote>
+<p dir="ltr"><span style="font-size: large;">This tactical guide to changing the world using cost-efficient swarm methodology serves as a leadership handbook that outlines how the Swedish Pirate Party was able to excel past the political competition on less than one percent of their budget, and explains how anyone can use swarm methodologies and principles to organize, structure, grow politically, socially, or professionally.</span></p>
+<blockquote>
+<p dir="ltr"><em><span style="font-size: large;"><span>"A swarm organization is a decentralized, collaborative effort of volunteers that looks like a hierarchical, traditional organization from the outside. It is built by a small core of people that construct a scaffolding of go-to people, enabling a large number of volunteers to cooperate on a common goal in quantities of people not possible before the net was available.</span>" ~ </span></em><span style="font-size: large;"><strong>Rick Falkvinge</strong></span></p>
+</blockquote>
+<p dir="ltr"><span style="font-size: large;">Swarm City Builders admire Rick and his work so greatly that it was decided to reflect it publicly, not only by implementing his ideas into our daily work practices, but also by implementing it directly into the naming of our Brand. We have routinely referenced his manual throughout the building of the City and it has paved the way for an entire swarm to become innovators and disruptors.</span></p>
+<p dir="ltr"><span style="font-size: large;"><br /></span></p>
+<p dir="ltr"><span style="font-size: large;">Hear what Rick Falkvinge has to say about Swarm City in his message for us on June 15, 2017...!!</span></p>
+<p><iframe src="https://www.youtube.com/embed/hYiKlP-UnUg?start=39.27" width="560" height="315" allowfullscreen="" frameborder="0"></iframe></p>
