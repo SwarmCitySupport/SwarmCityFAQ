@@ -50,3 +50,22 @@ Where is Swarm City?
 <li><span style="font-size: large;">See the pics,&nbsp;</span><a style="font-size: large;" href="https://www.instagram.com/weareswarmcity/">Instagram</a></li>
 </ul>
 <p><span style="font-size: large;">To contact Swarm City Support, use the (?) widget on the bottom left hand corner of the page on this site, email support@swarm.city, or ask us on <a href="https://twitter.com/SwarmCityHelp">Twitter</a>.</span></p>
+
+Why build Swarm City?
+<p><span style="font-size: large;">We are building Swarm City so people can transact with each other without third party interference. #Freedom</span></p>
+<p><span style="font-size: large;">Using Swarm City removes the need for third party intermediaries allowing every user to transact without obstruction. In doing so, transaction costs are greatly reduced, and there is no more need for users to trust third parties with their personal data.</span></p>
+<p><span style="font-size: large;">Building decentralized apps (DApps) on the Ethereum blockchain has the potential to distrupt many global markets and industries including banking and payments, cyber security, supply chain management, forecasting, networking and the Internet of Things, insurance, private transportation and ridesharing, cloud storage, charity, voting government, public benefits, healthcare, online music distribution, retail, real estate, crowdfunding, and any industry that deals with data or transactions of any kind.&nbsp;</span></p>
+<p><span style="font-size: large;">To find out how we think we can use the blockchain to change the world read our Medium article, "<a href="https://press.swarm.city/cutting-out-the-middlemen-318dae0ed8cb">Cutting Out the Middleman</a>"</span></p>
+<p><span style="font-size: large;">To read more about how blockchain technology can distrupt industries here are a few full articles:</span></p>
+<p><span style="font-size: large;"><a href="http://futurethinkers.org/industries-blockchain-disrupt/">19 Industries The Blockchain Will Disrupt</a></span></p>
+<p><span style="font-size: large;"><a href="https://www.cbinsights.com/research/industries-disrupted-blockchain/">Banking Is Only The Beginning: 30 Big Industries Blockchain Could Transform</a></span></p>
+<p><span style="font-size: large;"><a href="https://www.forbes.com/sites/oliviergarret/2017/03/29/5-industries-that-blockchain-will-likely-disrupt-by-2020/2/#694b15ec6a90">5 Industries Blockchain Will Likely Disrupt by 2020</a>&nbsp;- Forbes</span></p>
+
+Why is Swarm City built on the Ethereum blockchain?
+<p><span><span style="font-size: large;">We had several reasons for choosing to build the Swarm City DApp on the Ethereum blockchain opposed to building our own blockchain or using another:</span></span></p>
+<ul>
+<li><span><span style="font-size: large;">It gives us the ability to create reputation for each transaction we do. When SWT is transacted over a hashtag (smart contract) the people transacting get reputation on that hashtag. So, say in a rideshare scenario, a driver and a rider who transact on #needaride both get reputation for successfully completing the deal. That can&rsquo;t happen in our ecosystem if SWT isn&rsquo;t used.</span></span></li>
+<li><span><span style="font-size: large;">There is a need to have economic incentives of participants in the platform aligned.</span></span></li>
+<li><span><span style="font-size: large;">To eventually insulate the community from value fluctuations of other currencies.</span></span></li>
+<li><span style="font-size: large;">It is a way to make the platform sticky. Since the value of SWT is closely linked to the success of Swarm City the participants are invested in the success of the ecosystem. That's not possible if you use ETH.</span></li>
+</ul>
