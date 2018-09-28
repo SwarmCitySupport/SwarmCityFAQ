@@ -70,3 +70,53 @@
 <li><span><span style="font-size: large;">To eventually insulate the community from value fluctuations of other currencies.</span></span></li>
 <li><span style="font-size: large;">It is a way to make the platform sticky. Since the value of SWT is closely linked to the success of Swarm City the participants are invested in the success of the ecosystem. That's not possible if you use ETH.</span></li>
 </ul>
+
+# Who is Building Swarm City
+<p id="8775" class="graf graf--p graf-after--p"><em><span style="font-size: large;"><img src="https://s3.amazonaws.com/groovehq/uploaded/a1ja4nny2dce5y5p449hb3l5s7j9b4438iyb40blfvuq5c55ys?1504939245" alt="" /></span></em></p>
+<p class="graf graf--p graf-after--p">&nbsp;</p>
+<blockquote>
+<p class="graf graf--p graf-after--p"><em><span style="font-size: large;">"Looking at flocks of birds doing their aerial ballet around the trees in autumn is amazing. They are all synchronised without a single leader to be seen. Nature shows us that large groups of individuals can be organised and strive for a common goal without compromising on individual interests, talents, skills and even cultures.</span></em></p>
+<p id="8bb3" class="graf graf--p graf-after--p"><em><span style="font-size: large;">Swarm City acted as a magnet for like-minded people, who all found a common sense of belonging. This new shared culture has gone far beyond Swarm City now and next to the social community on Facebook has also attracted developers from the blockchain space and business entrepreneurs, bringing in more facets to the culture, where expressing core talent is stimulated, and freedom of action is encouraged.</span></em></p>
+<p id="17aa" class="graf graf--p graf-after--p"><span style="font-size: large;"><em>All have one belief: we feel like together we can truly change the world."&nbsp;</em></span><span style="font-size: large;">~ </span><strong style="font-size: large;">kingflurkel</strong><span style="font-size: large;">, Swarm City Architect</span></p>
+</blockquote>
+<p class="graf graf--p graf-after--p"><span style="font-size: large;">Read the full article&nbsp;<a href="https://press.swarm.city/embracing-more-diversity-and-getting-organised-swarm-2-0-59115c80101e">"Embracing more diversity and getting organized -&nbsp;</a></span><a href="https://press.swarm.city/e&lt;span style="><span style="font-size: large;">2.0"</span></a>&nbsp;</p>
+<p><span><span><span style="font-size: large;"><br /></span></span></span></p>
+<p><span><span><span style="font-size: large;">Visit our&nbsp;</span><span style="font-size: large;">website</span>&nbsp;<span style="font-size: large;">to see the <a href="https://thisis.swarm.city">core team</a> and&nbsp;</span><a href="http://advisors.swarm.city/"><span style="font-size: large;">advisors</span></a><span>.</span></span></span></p>
+<p><img src="https://s3.amazonaws.com/groovehq/uploaded/anibnr8mn81n9h5kzl3jqw8wsic5ckoi3lhfh6yhh5rpq9y1xe?1505362875" alt="" /></p>
+<p>&nbsp;</p>
+<p><span style="font-size: large;">If you want a more personal, in depth view, watch Matthew Carano interview King Flurkel.&nbsp;</span><span style="font-size: large;">#SwarmCity</span>&nbsp;</p>
+<p><iframe src="https://www.youtube.com/embed/2Z8Vmt20LII" width="560" height="315" allowfullscreen="" frameborder="0"></iframe></p>
+
+# Why did Swarm City brand fork?
+<p><span style="font-size: large;"><span>There are 2 key reasons for the brand fork:</span></span></p>
+<ol>
+<li><span style="font-size: large;"><span>the ARC symbol was already in use by some other coins and the previous token contract cannot be renamed </span></span></li>
+<li><span style="font-size: large;"><span>the ARC symbol would not have suited the new branding</span></span></li>
+</ol>
+<p><span style="font-size: large;">Read "<a href="https://press.swarm.city/forking-a-brand-cde5de87d46a">Forking A Brand</a>" or "<a href="https://press.swarm.city/dear-arcade-city-inc-investor-stakeholders-17f41cbe9e9">Dear Arcade City Inc, Investor Stakeholders</a>" published on the Swarm City Medium for more details.</span></p>
+
+# Is there a project roadmap for v1?
+<p><span><span style="font-size: large;">The Swarm City team planned 3 releases:</span></span></p>
+<p><span><span style="font-size: large;">1. Terminal, released on February 18, 2017, is the first big step toward building a decentralized economy. It gives users the ability to:</span></span></p>
+<ul>
+<li><span><span style="font-size: large;">create a user profile/digital wallet</span></span></li>
+<li><span><span style="font-size: large;">view balances</span></span></li>
+<li><span><span style="font-size: large;">send and receive SWT with simple shortcodes</span></span></li>
+<li><span><span style="font-size: large;">convert ARC to SWT</span></span></li>
+</ul>
+<p><span style="font-size: large;">Read "<a href="https://press.swarm.city/first-release-details-on-the-token-swap-20e03f1b7da6">First Release and Details on the Token Swap</a>" for more details</span></p>
+<p><span><span style="font-size: large;">2. Boardwalk, our Minimal Viable Product (MVP) was released on June 15, 2017. It provides users with a marketplace to communicate and transact within, called #pioneer. It gives users the ability to:</span></span></p>
+<ul>
+<li><span style="font-size: large;">complete basic peer-to-peer transactions on the first hashtag, #pioneer</span></li>
+<li><span style="font-size: large;">create an offer, ask the global audience for any thing or service, in exchange for the amount of SWT you offer</span></li>
+<li><span style="font-size: large;">generate Swarm City Reputation tokens, receive reputation tokens (SWR) for all completed transactions</span></li>
+<li><span style="font-size: large;">help fund the City with the hashtag maintainer fee deducted from each transaction. These funds are used to fund support, communication, and conflict resolution for this hashtag</span></li>
+</ul>
+<p><span style="font-size: large;">Learn more by reading "<a href="https://press.swarm.city/swarm-city-boardwalk-overview-9a362f19411f">Swarm City Boardwalk Overview</a>"</span></p>
+<p><span style="font-size: large;">3. Storefront, Swarm City "Hives" begin to organize and offer services on the platform. Context dependent GUIs providing users access to many individual marketplaces are established providing users with:</span></p>
+<ul>
+<li><span style="font-size: large;">the ability to create and maintain their own hashtag</span></li>
+<li><span style="font-size: large;">access to all other hashtags (marketplaces) in Swarm City</span></li>
+</ul>
+<p><span style="font-size: large;">Learn more by reading "<a href="https://press.swarm.city/storefront-15f4c2a28d6f">Storefront</a>"</span></p>
+<p><span><span style="font-size: large;">Also find more general info here "</span><span style="font-size: large;"><a class="postlink" href="https://press.swarm.city/unmistakably-swarm-city-9522606f88">Unmistakably Swarm City - How and What we are Developing</a>"</span></span></p>
