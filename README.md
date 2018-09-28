@@ -31,8 +31,9 @@ What Is Swarm City?
 <p><iframe src="https://www.youtube.com/embed/t0yKy77wqmM?rel=0" width="560" height="315" allowfullscreen="" frameborder="0"></iframe></p>
 <p dir="ltr">&nbsp;</p>
 
-<p><a href="https://swarm.city"><img src="https://s3.amazonaws.com/groovehq/uploaded/a0g97mvc86kkxfeg3gnns0lc0833zvofq8bmgfeurpps7ht6sx?1504933376" alt="" /></a></p>
+<p><a href="https://swarm.city"><img src="https://s3.amazonaws.com/groovehq/uploaded/a0g97mvc86kkxfeg3gnns0lc0833zvofq8bmgfeurpps7ht6sx?1504933376" altWhere is Swarm City?="" /></a></p>
 <p>&nbsp;</p>
+Where is Swarm City?
 <p><span style="font-size: large;"><span style="font-size: large;">Swarm City is a decentralized commerce platform built on the Ethereum Blockchain.</span></span></p>
 <p><span style="font-size: large;"><span style="font-size: large;"><br /></span></span></p>
 <p><span style="font-size: large;"><span style="font-size: large;">Join the Swarm...there are no boundaries!</span></span></p>
