@@ -30,3 +30,22 @@ What Is Swarm City?
 <div><span style="font-size: large;">See how this works in the video below, "What is...Swarm City?"</span></div>
 <p><iframe src="https://www.youtube.com/embed/t0yKy77wqmM?rel=0" width="560" height="315" allowfullscreen="" frameborder="0"></iframe></p>
 <p dir="ltr">&nbsp;</p>
+
+<p><a href="https://swarm.city"><img src="https://s3.amazonaws.com/groovehq/uploaded/a0g97mvc86kkxfeg3gnns0lc0833zvofq8bmgfeurpps7ht6sx?1504933376" alt="" /></a></p>
+<p>&nbsp;</p>
+<p><span style="font-size: large;"><span style="font-size: large;">Swarm City is a decentralized commerce platform built on the Ethereum Blockchain.</span></span></p>
+<p><span style="font-size: large;"><span style="font-size: large;"><br /></span></span></p>
+<p><span style="font-size: large;"><span style="font-size: large;">Join the Swarm...there are no boundaries!</span></span></p>
+<ul>
+<li><span style="font-size: large;"><span style="font-size: large;">Create a profile,&nbsp;<a href="https://swarm.city">DApp</a></span></span></li>
+<li><span style="font-size: large;"><span style="font-size: large;">See the code,&nbsp;</span></span><a style="font-size: large;" href="https://github.com/swarmcity">Github</a></li>
+<li><span style="font-size: large;">Watch demos,&nbsp;<a href="https://www.youtube.com/channel/UCsHBWn_ytZ3xdMbTyYe5Ifg">YouTube</a></span></li>
+<li><span style="font-size: large;"><span>Stay updated,&nbsp;<a href="https://medium.com/swarm-city-times">Medium</a></span></span></li>
+<li><span style="font-size: large;"><span><span>Chat with us,&nbsp;<a href="http://slackinvite.swarm.city">Slack</a></span></span></span></li>
+<li><span style="font-size: large;"><span><span>Follow us on,&nbsp;<a href="https://twitter.com/SwarmCityDApp">Twitter</a></span></span></span></li>
+<li><span style="font-size: large;"><span><span><span>Join threads,&nbsp;<a href="https://www.reddit.com/r/SwarmCity/">Reddit</a></span></span></span></span></li>
+<li><span style="font-size: large;"><span><span><span>Connect with the Swarm, </span></span></span></span><a href="https://www.facebook.com/groups/SwarmCity/"><span style="font-size: large;">Facebook Hive</span></a></li>
+<li><span style="font-size: large;">Show your support,&nbsp;<a href="http://www.facebook.com/swarmcitydapp">Facebook&nbsp;Page</a></span></li>
+<li><span style="font-size: large;">See the pics,&nbsp;</span><a style="font-size: large;" href="https://www.instagram.com/weareswarmcity/">Instagram</a></li>
+</ul>
+<p><span style="font-size: large;">To contact Swarm City Support, use the (?) widget on the bottom left hand corner of the page on this site, email support@swarm.city, or ask us on <a href="https://twitter.com/SwarmCityHelp">Twitter</a>.</span></p>
