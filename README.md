@@ -124,7 +124,7 @@
 # Where can I view the Swarm City whitepaper?
 <p><span style="font-size: large;"><span>You can view the original Arcade City whitepaper used during the November 2017 tokensale,&nbsp;&nbsp;</span><a class="postlink" href="https://drive.google.com/file/d/0B9RSMdR2vWssV2JJX0t6dmN6SUk/view">here</a>. On January 1, 2017, there was a brand fork and a new mini <a href="https://github.com/swarmcity/sc-token/blob/master/token-exchange-miniwhitepaper.md#token-exchange-whitepaper">whitepaper</a> was created by the Swarm City developers to outline the intended path forward.</span></p>
 
-# Is Swarm City an open-sourced project?
+# Is the Swarm City DApp an open-sourced software?
 <p dir="ltr"><span style="font-size: large;">Yes, Swarm City is an <a href="https://en.wikipedia.org/wiki/Open-source_software">open source</a> <a href="https://en.wikipedia.org/wiki/Peer-to-peer">P2P</a> web application platform, providing decentralized, privacy-preserving software which keeps users in control of their own content. </span></p>
 <p dir="ltr"><span style="font-size: large;">See and contribute to the code on <a href="https://github.com/swarmcity">Github</a>.</span></p>
 <p dir="ltr">&nbsp;</p>
@@ -137,3 +137,50 @@
 <p>THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.</p>
 <p>&nbsp;</p>
 </blockquote>
+
+# What is a DApp?
+<p dir="ltr"><span style="font-size: large;">DApp is an abbreviation for Decentralized Application. DApps connect users and providers directly.</span></p>
+<p dir="ltr"><span style="font-size: medium;">Swarm City is listed on the <a href="https://www.stateofthedapps.com/dapps/swarm-city">State of DApps</a> site</span></p>
+<p dir="ltr"><span style="font-size: medium;"><a href="https://ethereum.stackexchange.com/questions/383/what-is-a-dapp">The Ethereum Stack Exchange</a>&nbsp;<span style="font-size: large;">explains it like this...</span></span></p>
+<p dir="ltr"><span style="font-size: large;">A DApp runs backend code on a global decentralized peer-to-peer network. Contrast this with an app where the backend code is running on centralized servers. A DApp can have frontend code and user interfaces written in any language (just like an app) that can make calls to it&rsquo;s backend&nbsp;since Ethereum contracts are code that run on the global Ethereum decentralized network.</span></p>
+<blockquote>
+<p dir="ltr"><span style="font-size: large;">A traditional app = "frontend + servers"</span></p>
+<p dir="ltrln"><span style="font-size: large;">A DApp = "frontend + contracts"</span></p>
+<p dir="ltr"><span style="font-size: large;"><br /></span></p>
+</blockquote>
+<p dir="ltr"><span style="font-size: large;">Read this <a href="https://www.coindesk.com/information/what-is-a-decentralized-application-dapp/">Coindesk article</a> for a more in depth look.</span></p>
+
+# Is the Swarm City DApp downloadable in Google or Apple appstore?
+<p dir="ltr">No, we will not build a native app, as it would create a single point of failure in the app stores. However, Swarm City will be accessible through native apps like status.im.</p>
+<p dir="ltr"><a href="https://themerkle.com/what-is-a-dapp/">The Merkle</a> reports&nbsp;</p>
+<blockquote>
+<p dir="ltr"><em><strong>"Decentralized applications also known as DApps, are the next logical step in the evolution of technology. A decentralized application is similar to a smart contract on the Ethereum blockchain, yet it also has key differences. Unlike smart contracts, Dapps do not need to revolve around finance but can leverage blockchain technology for any purpose that comes to mind."</strong></em></p>
+</blockquote>
+<p dir="ltr">&nbsp;</p>
+<p dir="ltr"><a href="http://ca.newsbtc.com/decentralized-apps-for-beginners-what-is-a-dapp/">NEWSBTC</a> explains it like this</p>
+<blockquote>
+<p dir="ltr"><em><strong>"Decentralized apps are a new type of software program designed to exist on the Internet in a way that is not controlled by any single entity. Where&nbsp;bitcoin is a decentralized value exchange, a decentralized application aims to achieve functionality&nbsp;beyond transactions that exchange value. Many types of decentralized apps are starting to emerge as blockchain technology continues to progress. More companies and individuals are seeing the potential for what can be achieved in decentralizing not just money but almost any type of computing imaginable.</strong></em></p>
+<p><em><strong>Decentralized apps potentially represent the next generation of computing. In a completely decentralized world all things occur using peer-to-peer networks and the idea of centralized entities&nbsp;are non-existent. This distributed future is still being designed and built but the early stages of development are looking promising."</strong></em></p>
+</blockquote>
+<p dir="ltr">&nbsp;</p>
+<p dir="ltr">If you want a hardcopy to dig into this&nbsp;<a href="https://books.google.com/books?id=CEsPDAAAQBAJ&amp;pg=PT140&amp;lpg=PT140&amp;dq=can+you+list+a+decentralized+app+in+the+app+stores&amp;source=bl&amp;ots=gxpXgTRhcb&amp;sig=dzk4uYfnXfWMOSOVLm6kQNDYsdM&amp;hl=en&amp;sa=X&amp;ved=0ahUKEwjQh-e0kcTTAhXBjVQKHdCeD18Q6AEIWzAJ#v=onepage&amp;q=can%20you%20list%20a%20decentralized%20app%20in%20the%20app%20stores&amp;f=false">publication</a>&nbsp;helps explain decentralized apps.</p>
+
+# How does a decentralized commerce platform work?
+<p dir="ltr"><span style="font-size: large;">Commerce happens when two or more people trade goods or services for other things of value like cash or cryptocurrency and it requires two things:</span></p>
+<ul>
+<li dir="ltr"><span><span style="font-size: large;">the ability to communicate</span></span></li>
+<li dir="ltr"><span><span style="font-size: large;">the ability to transact</span></span></li>
+</ul>
+<p dir="ltr"><span><span style="font-size: large;">Swarm City enables people to securely communicate and transact in a completely decentralized way - without the middlemen.</span></span></p>
+<p><span><span style="font-size: large;">Users can create a profile and digital wallet, convert ARC to SWT, send and receive SWT, see the SWT and ether balance and the equivalent USD value, place an offer, communicate privately, and complete a transaction exchanging SWT.</span></span></p>
+<p><span style="font-size: large;"><span><br /></span></span></p>
+<p><span style="font-size: large;"><span>More details can be found in "</span><a href="https://press.swarm.city/system-architecture-newsflash-449fea309097">System Architect Newsflash</a><span>"</span></span></p>
+<p><span style="font-size: large;">Creating a blockchain based app that&rsquo;s fast and as responsive as a bee is hard. That&rsquo;s why the Swarm City architecture consists of several layers that interoperate, to create an experience that enables a decentralized peer to peer sharing economy. </span></p>
+<p><span style="font-size: large;">The protocol is the most important part; making sure layers can communicate by speaking the same language using the same grammatical rules. These layers are isolated so they can be changed without disabling the app. </span></p>
+<p><span style="font-size: large;">One of these layers enables the communication between devices, the blockchain, and IPFS. Before data is stored on IPFS or the Ethereum blockchain, it needs to be available on every user&rsquo;s device so it can interact with it. In the current live version, this part is played by Whisper. </span></p>
+<p><span style="font-size: large;">With the development and release of Boardwalk (June 2017) the dev team reached and pushed the limits of what you can use Whisper for today. </span></p>
+<p><span style="font-size: large;">To create an awesome user experience, Boardwalk 2.0 will use Firebase to enable the communication layer. In the meantime our dev and lab teams keep working on optimizing the Whisper solution, and when ready, will swap out the components on this layer.&nbsp;<span>Firebase knows what&rsquo;s going to be on IPFS before it&rsquo;s there. But it needs to have the hash later on, so everyone can verify what is true.</span></span></p>
+<p><span style="font-size: large;"> IPFS stores all data &mdash; Firebase caches </span></p>
+<p><span style="font-size: large;">There is a unique IPFS bridge constructed within Firebase, and its function is to listen to changes made to the Firebase database and storage. This bridge is a caching layer and hash index to the IPFS. All changes to Firebase will be saved to IPFS, and IPFS will generate a hash from the data, which in turn is saved back to Firebase updating the stored data with the IPFS hash. </span></p>
+<p><span style="font-size: large;">Data is stored in the browser&rsquo;s local storage via IndexedDB and Firebase database. This data is then synced to the IPFS. Firebase functions trigger updates to the Blockchain. </span></p>
+<p><span style="font-size: large;">Public servers are used to interacting with geth, leaving the app completely infrastructure free with exception of the IPFS server.</span></p>
