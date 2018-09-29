@@ -1,10 +1,8 @@
 # What Is Swarm City?
-
-<p><span style="font-size: large;">Swarm City is a decentralized commerce platform built on the Ethereum blockchain.</span></p>
-<p><span style="font-size: large;">Visit&nbsp;<a href="https://swarm.city">https://swarm.city</a>&nbsp;to view the website and select "enter here" to create a profile.</span></p>
-<p><span style="font-size: large;">It is our goal to provide a platform featuring an open global marketplace of services/service providers, currency tokens, and encrypted communication tools that offer direct access between buyers and sellers worldwide.</span></p>
-<p><span style="font-size: large;">In the swarm.city DApp, you get access to a global decentralized metwork of peer-to-peer (P2P) service providers and consumers.</span></p>
-<p><span style="font-size: large;"> Anyone can also easily create their own brands and hives, and start doing P2P transactions.&nbsp;</span><span style="font-size: large;">To accomplish this, swarm.city combines the power of blockchain technology, open-source development, platform cooperativism, and a decentralized &lsquo;swarm&rsquo; organizational model open to all.&nbsp;</span><span style="font-size: large;">The core technical offering is a DApp running on the Ethereum blockchain. </span></p>
+<p><span style="font-size: large;">Swarm City is a decentralized commerce platform built on the Ethereum blockchain. We use blockchain technology and smart contracts to allow people to communicate, transact value, and earn contextual reputation.</span></p>
+<p><span style="font-size: large;">Visit&nbsp;<a href="https://legacy.swarm.city">https://swarm.city</a>&nbsp;to see the latest updates.</span></p>
+<p><span style="font-size: large;">It is our goal to provide a platform featuring an open global marketplace of services/service providers, using the Ethereum blockchain, the Kovan testnet, currency tokens, encrypted communication tools, and any other solution we find or build along the way that can be used offer direct access between buyers and sellers worldwide.</span></p>
+<p><span style="font-size: large;">In the Swarm City DApp, you get access to a network of peer-to-peer (P2P) service providers and consumers.&nbsp;</span><span style="font-size: large;">We are making it easy for anyone to easily create their own branded marketplaces, called Storefronts, using self organizing swarms of like-minded contributors, called Hives.&nbsp;</span><span style="font-size: large;">To accomplish this swarm.city combines the power of blockchain technology, open-source development, platform cooperativism, and a decentralized &lsquo;swarm&rsquo; organizational model open to all.&nbsp;</span></p>
 <p><span style="font-size: large;">Take a closer look by reading "</span><a style="font-size: large;" href="https://press.swarm.city/unmistakably-swarm-city-9522606f88">Unmistakably Swarm</a><span style="font-size: medium;">" or "<a href="https://press.swarm.city/cutting-out-the-middlemen-318dae0ed8cb"><span style="font-size: large;">Cutting out the Middleman</span></a>".</span></p>
 <p>&nbsp;</p>
 <p><img src="https://s3.amazonaws.com/groovehq/uploaded/ycr8i11ol70yignz0utsbbm2y6d2vj77wc7ya5dbx1phnm3ptn?1504928073" alt="" /><img src="https://s3.amazonaws.com/groovehq/uploaded/2z104oelkq5neax78o3q2sx6pn9hqwogvwjsigz8n7kvmx5wqi?1504933579" alt="" /></p>
@@ -31,8 +29,6 @@
 <p><iframe src="https://www.youtube.com/embed/t0yKy77wqmM?rel=0" width="560" height="315" allowfullscreen="" frameborder="0"></iframe></p>
 <p dir="ltr">&nbsp;</p>
 
-<p><a href="https://swarm.city"><img src="https://s3.amazonaws.com/groovehq/uploaded/a0g97mvc86kkxfeg3gnns0lc0833zvofq8bmgfeurpps7ht6sx?1504933376" altWhere is Swarm City?="" /></a></p>
-<p>&nbsp;</p>
 
 # Where is Swarm City?
 <p><span style="font-size: large;"><span style="font-size: large;">Swarm City is a decentralized commerce platform built on the Ethereum Blockchain.</span></span></p>
